@@ -1,0 +1,36 @@
+<resources>
+    <string name="about_me_description">Adaptable developer with more than ONE year and FIVE months of experience in software engineering, dedicated to implementing cutting edge technologies to optimize development efficiency. Proficient in swiftly acquiring and applying intricate technological concepts.</string>
+    <string name="linkedIn">LinkedIn</string>
+    <string name="linkedIn_link">https://www.linkedin.com/in/sampath-vedantham</string>
+    <string name="git_link">https://github.com/SampathVedantham1</string>
+    <string name="click_me">Click Me</string>
+    <string name="about_me">About me</string>
+    <string name="experience_plain">Experience</string>
+    <string name="key_skills">Key Skills</string>
+    <string name="education">Education</string>
+    <string name="projects">Projects</string>
+    <string name="links">Links</string>
+    <string name="experience">Experience : </string>
+    <string name="experience_duration">1 year 5 months</string>
+    <string name="software_engineer">Software Engineer</string>
+    <string name="full_name">Vedantham Sri Krishna Hanu Sampath</string>
+    <string name="resume_link">https://drive.google.com/file/d/1-jEXZwU4C9rd17-tYmEmg33_5221WmZT/view?usp=sharing</string>
+    <string name="scan_qr_code">Scan the QR code to access the resume</string>
+    <string name="or">OR</string>
+    <string name="qr_code_content_description">QR code to view Resume</string>
+    <string name="click_to_view_resume">Click to view/download Resume</string>
+    <string name="app_name">Know Me</string>
+    <string name="company_name">Company name</string>
+    <string name="project_name">Project name</string>
+    <string name="tec_stack">Tec stack</string>
+    <string name="job_role">Job role</string>
+    <string name="home_sceen_section">Home screen section</string>
+    <string name="string_degree">Degree</string>
+    <string name="string_branch">Branch</string>
+    <string name="string_marks">Marks %</string>
+    <string name="string_duration">Duration</string>
+    <string name="details">Details</string>
+    <string name="contributors">Contributors</string>
+    <string name="reference">References</string>
+    <string name="string_institute_name">Institute name</string>
+</resources>
